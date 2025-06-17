@@ -42,3 +42,4 @@ resource "aws_security_group" "open_sg" {
   }
 }
 resource "aws_s3_bucket" "demo_bucket" { bucket = "my-demo-bucket-123" acl = "public-read" # No server-side encryption # No versioning }
+# test change for clean demo branch
