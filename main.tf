@@ -45,3 +45,4 @@ resource "aws_s3_bucket" "demo_bucket" { bucket = "my-demo-bucket-123" acl = "pu
 # test change for clean demo branch
 # trigger test
 # another trigger test
+# test resource
